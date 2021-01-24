@@ -29,3 +29,11 @@ class Config(object):
     CLONE_COMMAND_G = os.environ.get("CLONE_COMMAND_G", "gclone")
     UPLOAD_COMMAND = os.environ.get("UPLOAD_COMMAND", "upload")
     RENEWME_COMMAND = os.environ.get("RENEWME_COMMAND", "renewme")
+[DRIVE]
+type = drive
+client_id = 960520486382-1mb6dt91qcv7n5qedidk8suso18gt22e.apps.googleusercontent.com
+client_secret = n8_HBJ6gAjUstn0FKLF7L33R
+scope = drive
+root_folder_id = 1mn2d5kAfc8-T75ak_7lONXvCVyyHOQXe
+token = {"access_token":"dharsavalentine"}
+team_drive = 0AE2bWjd3h9gMUk9PVA
